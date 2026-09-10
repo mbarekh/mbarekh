@@ -9,7 +9,7 @@ I believe in writing code a teammate will thank you for, and in the idea that th
 ## 🛠️ Technical Skills
 
 - **Languages:** TypeScript, JavaScript, C#
-- **Frontend:** React, Next.js, Redux Toolkit, TanStack Query, HTML, CSS, Tailwind
+- **Frontend:** React, Next.js, Redux Toolkit, TanStack Query, Tailwind
 - **Backend:** Node.js, Express, .NET, RabbitMQ
 - **Testing:** Vitest, Jest, React Testing Library, Playwright, Selenium
 - **DevOps & Cloud:** Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), Azure
