@@ -2,7 +2,7 @@
 
 I'm a **Senior Frontend Engineer** with a deep passion for building high-quality web applications. I enjoy writing clean, efficient, and well-tested code, always striving for maintainability and performance.
 
-These days I live mostly in **TypeScript** and **React** (React and I have been together since before it was cool to admit it), with **Next.js** and **Node.js** as my playground for personal projects, and **C# .NET** as the language that keeps my backend muscles working.
+My main stack is **TypeScript**, **React**, **Next.js**, and **Node.js** — with a bit of **C# .NET** experience along the way.
 
 I believe in writing code a teammate will thank you for, and in the idea that the best engineers never really stop being students.
 
