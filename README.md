@@ -6,6 +6,8 @@ My main stack is **TypeScript**, **React**, **Next.js**, and **Node.js** — wit
 
 I believe in writing code a teammate will thank you for, and in the idea that the best engineers never really stop being students.
 
+Feel free to contact me and let's build something great together!
+
 ## 🛠️ Technical Skills
 
 - **Languages:** TypeScript, JavaScript, C#
