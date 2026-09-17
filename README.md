@@ -12,6 +12,6 @@ Feel free to reach out and let's build something great together!
 
 - **Languages:** TypeScript, JavaScript, C#
 - **Frontend:** React, Next.js, Redux Toolkit, TanStack Query, Tailwind
-- **Backend:** Node.js, Express, .NET, RabbitMQ
+- **Backend:** Node.js, Express, MongoDB, .NET, RabbitMQ
 - **Testing:** Vitest, Jest, React Testing Library, Playwright, Selenium
 - **DevOps & Cloud:** Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), Vercel
