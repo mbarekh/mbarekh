@@ -1,6 +1,6 @@
 # 👋 Hello World!
 
-I'm a **Senior Frontend Engineer** with a deep passion for building high-quality web applications. I enjoy writing clean, efficient, and well-tested code, always striving for maintainability and performance.
+I'm a **Senior Fullstack Engineer** with a deep passion for building high-quality web applications. I enjoy writing clean, efficient, and well-tested code, always striving for maintainability and performance.
 
 Throughout my career, I've worked across all layers of software development, including architecture, frontend, backend, CI/CD, and infrastructure, with a strong focus on frontend, and React in particular.
 
